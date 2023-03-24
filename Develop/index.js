@@ -86,7 +86,7 @@ const questions = [
     //Test instructions (npm test)//
     {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'What command should be run to run tests?',
         default: 'npm test'
     },
@@ -107,7 +107,7 @@ const questions = [
     //list Contributors for the project
     {
         type: 'input',
-        name: 'contribution',
+        name: 'contributing',
         message: 'What does the user need to know about contributing to the repo?',
         validate: your_contribution => {
             if (your_contribution) {

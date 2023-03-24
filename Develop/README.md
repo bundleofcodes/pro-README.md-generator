@@ -1,26 +1,39 @@
-# dmadnl
-  ## License:
-  [![License](https://img.shields.io/badge/license-Apache 2.0-blue.svg)]
-  ## Table of Contents
-  - [Description](#description)
+# Professional README Generator
+    ![Github license](https://img.shields.io/badge/license-$(license)-blue.svg)
+
+    ## Description:
+
+    Command-line application that runs with Node.js that generates a README file based on input about your project.
+ 
+    ## Table of Contents:
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributions](#contribution)
-  - [Testing](#testing)
-  - [Additional Info](#additional-info)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-  ## Description:
-  dnaldal
   ## Installation:
+
   npm i
+
   ## Usage:
-  dna;danl
+
+  User input received as Markdown used to create README file.
+
   ## License:
+
   Apache 2.0
-  ## Contribution:
-  dmall
-  ## Testing:
-  npm test
-  ## Contact Information:
-  - Github: [dmamdla](https://github.com/dmamdla)
-  - Email: [dankldnal](mailto:user@example.com)
+
+  ## Contributing:
+
+  undefined
+
+  ## Tests:
+  
+  undefined
+
+  ## Questions:
+
+  - Github: [bundleofcodes](https://github.com/bundleofcodes)
+  - Email: [raiyabelle@gmail.com](mailto:user@example.com)
