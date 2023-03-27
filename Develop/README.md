@@ -1,12 +1,13 @@
 # Professional README Generator
-    ![Github license](https://img.shields.io/badge/license-$(license)-blue.svg)
-
-    ## Description:
-
-    Command-line application that runs with Node.js that generates a README file based on input about your project.
- 
-    ## Table of Contents:
     
+ ![Github license](https://img.shields.io/badge/license-$(license)-blue.svg)
+
+  ## Description:
+
+  To use markdown and code to generate a professional README file
+ 
+  ## Table of Contents:
+
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -20,7 +21,7 @@
 
   ## Usage:
 
-  User input received as Markdown used to create README file.
+  This repo requires npm i and node.js for application installation
 
   ## License:
 
@@ -28,11 +29,11 @@
 
   ## Contributing:
 
-  undefined
+  Any developer contributing to this application will be credited
 
   ## Tests:
-  
-  undefined
+
+  npm test
 
   ## Questions:
 
