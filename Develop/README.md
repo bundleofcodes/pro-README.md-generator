@@ -6,6 +6,7 @@
     Command-line application that runs with Node.js that generates a README file based on input about your project.
  
     ## Table of Contents:
+    
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
