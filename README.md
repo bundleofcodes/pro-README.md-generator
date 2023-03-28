@@ -11,7 +11,9 @@ The purpose of this project was to learn how to create a node.js application tha
 
 ## Usage:
 
-- [Application Video Walkthrough]([https://drive.google.com/file/d/15mVwPPAaJ8cFJ8AsDHohNnAYh3rLNk7a/view?usp=sharing) 
+- [Application Video Walkthrough](https://drive.google.com/file/d/15mVwPPAaJ8cFJ8AsDHohNnAYh3rLNk7a/view?usp=sharing) 
+
+- Application Screenshot:
 
 - ![Application Screenshot](./README%20preview%20Screenshot.png)
 
@@ -42,3 +44,6 @@ npm test
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
+
+  [https://drive.google.com/file/d/15mVwPPAaJ8cFJ8AsDHohNnAYh3rLNk7a/view?usp=sharing
