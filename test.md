@@ -1,6 +1,6 @@
 # Professional README Generator
     
- ![Github license](https://img.shields.io/badge/license-$(license)-blue.svg)
+ ![Github license](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 
   ## Description:
 
