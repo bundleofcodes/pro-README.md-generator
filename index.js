@@ -143,7 +143,7 @@ function init() {
     .then((userInput) => {
         console.log(userInput)
         console.log("Successful! Your README.md file has been generated!")
-        writeToFile("README.md", generateMarkdown({...userInput}));
+        writeToFile("./output/README.md", generateMarkdown({...userInput}));
     });
 };
 
