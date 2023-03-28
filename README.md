@@ -16,6 +16,7 @@ Installing npm and node.js to run this application
 Application Video Tutorial:
 
 ![Application_Walkthrough_Tutorial](https://watch.screencastify.com/v/APDEKIWsqxwA2oSfCU8F)
+![Application Video Walkthrough](https://watch.screencastify.com/v/APDEKIWsqxwA2oSfCU8F)
 
 Application Screenshot:
 
