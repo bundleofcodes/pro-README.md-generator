@@ -44,6 +44,3 @@ npm test
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-
-
-  [https://drive.google.com/file/d/15mVwPPAaJ8cFJ8AsDHohNnAYh3rLNk7a/view?usp=sharing
